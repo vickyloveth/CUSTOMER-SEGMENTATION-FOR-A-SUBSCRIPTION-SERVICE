@@ -81,4 +81,19 @@ ORDER BY
 ### Power BI Dashboard
 
 Power BI dashboard containing:
+- Total number of customers, Total revenue and avarage subscription duration (cards)
+- Top selling products by customers (Donut chart)
+- Top selling products by revenue (Line chart)
+- Subscription type by number of customer in each Region(Matrix)
+- Top customer by thier Revenue (Table)
+- Number of Customers with Active and cancelled subscription(matrix)
+- Monthly sales trend of customers patronage (line chart)
+- Count of customer by cancelled subscription (Pie chart)
+
+![Screenshot (44)](https://github.com/user-attachments/assets/7a38c099-5072-4674-b2e8-80f338ff7fcd)
+
+
+![Screenshot (45)](https://github.com/user-attachments/assets/209ec9da-1d0c-4c03-9db3-0167118d2c77)
+
+  
     
